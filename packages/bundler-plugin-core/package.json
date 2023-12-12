@@ -1,6 +1,6 @@
 {
   "name": "@sentry/bundler-plugin-core",
-  "version": "2.10.2",
+  "version": "1.0.0",
   "description": "Sentry Bundler Plugin Core",
   "repository": "git://github.com/getsentry/sentry-javascript-bundler-plugins.git",
   "homepage": "https://github.com/getsentry/sentry-javascript-bundler-plugins/tree/main/packages/bundler-plugin-core",
@@ -57,7 +57,7 @@
     "@sentry/utils": "^7.60.0",
     "dotenv": "^16.3.1",
     "find-up": "5.0.0",
-    "glob": "9.3.2",
+    "glob": "7.2.3",
     "magic-string": "0.27.0",
     "unplugin": "1.0.1"
   },

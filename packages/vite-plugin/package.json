@@ -1,6 +1,6 @@
 {
   "name": "@sentry/vite-plugin",
-  "version": "2.10.2",
+  "version": "1.0.0",
   "description": "Official Sentry Vite plugin",
   "repository": "git://github.com/getsentry/sentry-javascript-bundler-plugins.git",
   "homepage": "https://github.com/getsentry/sentry-javascript-bundler-plugins/tree/main/packages/vite-plugin",
@@ -48,7 +48,7 @@
     "prepack": "ts-node ./src/prepack.ts"
   },
   "dependencies": {
-    "@sentry/bundler-plugin-core": "2.10.2",
+    "@sentry/bundler-plugin-core": "blitzstudios/sentry-javascript-bundler-plugins.git#sentry-bundler-plugin-core-v1.0.0-gitpkg",
     "unplugin": "1.0.1"
   },
   "devDependencies": {
